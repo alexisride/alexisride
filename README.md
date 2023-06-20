@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexisride
+- 👀 I’m interested in Dashboard Design, Pair Programming and Lisp
+- 🌱 I’m currently learning Dbt, Airflow and how to take breaks
+- 💞️ I’m looking to collaborate on making Pair Programming easier
+- 📫 How to reach me alexis dot rondeau at ride dot capital
